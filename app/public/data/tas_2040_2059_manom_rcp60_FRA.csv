@@ -1,0 +1,229 @@
+Monthly Temperature - (Celsius), Year, Model, Statistics, Country, ISO3
+0.8906979, 2040-2059, bcc_csm1_1, Jan Anomaly, France, FRA
+1.0089458, 2040-2059, bcc_csm1_1, Feb Anomaly, France, FRA
+1.768968, 2040-2059, bcc_csm1_1, Mar Anomaly, France, FRA
+1.5722779, 2040-2059, bcc_csm1_1, Apr Anomaly, France, FRA
+1.5997549, 2040-2059, bcc_csm1_1, May Anomaly, France, FRA
+2.3327122, 2040-2059, bcc_csm1_1, Jun Anomaly, France, FRA
+1.1596609, 2040-2059, bcc_csm1_1, Jul Anomaly, France, FRA
+2.3570218, 2040-2059, bcc_csm1_1, Aug Anomaly, France, FRA
+1.9636954, 2040-2059, bcc_csm1_1, Sep Anomaly, France, FRA
+1.3767985, 2040-2059, bcc_csm1_1, Oct Anomaly, France, FRA
+1.5470852, 2040-2059, bcc_csm1_1, Nov Anomaly, France, FRA
+0.83765346, 2040-2059, bcc_csm1_1, Dec Anomaly, France, FRA
+0.85023737, 2040-2059, bcc_csm1_1_m, Jan Anomaly, France, FRA
+0.4714428, 2040-2059, bcc_csm1_1_m, Feb Anomaly, France, FRA
+1.0117395, 2040-2059, bcc_csm1_1_m, Mar Anomaly, France, FRA
+1.082341, 2040-2059, bcc_csm1_1_m, Apr Anomaly, France, FRA
+0.53147745, 2040-2059, bcc_csm1_1_m, May Anomaly, France, FRA
+2.5029418, 2040-2059, bcc_csm1_1_m, Jun Anomaly, France, FRA
+1.7787105, 2040-2059, bcc_csm1_1_m, Jul Anomaly, France, FRA
+1.683506, 2040-2059, bcc_csm1_1_m, Aug Anomaly, France, FRA
+2.512888, 2040-2059, bcc_csm1_1_m, Sep Anomaly, France, FRA
+1.4845539, 2040-2059, bcc_csm1_1_m, Oct Anomaly, France, FRA
+1.3885058, 2040-2059, bcc_csm1_1_m, Nov Anomaly, France, FRA
+1.1938113, 2040-2059, bcc_csm1_1_m, Dec Anomaly, France, FRA
+1.1290162, 2040-2059, ccsm4, Jan Anomaly, France, FRA
+1.7092322, 2040-2059, ccsm4, Feb Anomaly, France, FRA
+1.2397921, 2040-2059, ccsm4, Mar Anomaly, France, FRA
+1.1885054, 2040-2059, ccsm4, Apr Anomaly, France, FRA
+1.4704304, 2040-2059, ccsm4, May Anomaly, France, FRA
+2.1332455, 2040-2059, ccsm4, Jun Anomaly, France, FRA
+1.8260698, 2040-2059, ccsm4, Jul Anomaly, France, FRA
+2.7323787, 2040-2059, ccsm4, Aug Anomaly, France, FRA
+1.7376424, 2040-2059, ccsm4, Sep Anomaly, France, FRA
+0.7011698, 2040-2059, ccsm4, Oct Anomaly, France, FRA
+1.243119, 2040-2059, ccsm4, Nov Anomaly, France, FRA
+0.86604553, 2040-2059, ccsm4, Dec Anomaly, France, FRA
+2.261193, 2040-2059, cesm1_cam5, Jan Anomaly, France, FRA
+1.6390903, 2040-2059, cesm1_cam5, Feb Anomaly, France, FRA
+1.416803, 2040-2059, cesm1_cam5, Mar Anomaly, France, FRA
+1.5513111, 2040-2059, cesm1_cam5, Apr Anomaly, France, FRA
+1.2945663, 2040-2059, cesm1_cam5, May Anomaly, France, FRA
+1.6133277, 2040-2059, cesm1_cam5, Jun Anomaly, France, FRA
+2.1564596, 2040-2059, cesm1_cam5, Jul Anomaly, France, FRA
+2.0018127, 2040-2059, cesm1_cam5, Aug Anomaly, France, FRA
+2.0568464, 2040-2059, cesm1_cam5, Sep Anomaly, France, FRA
+1.5535157, 2040-2059, cesm1_cam5, Oct Anomaly, France, FRA
+1.2235951, 2040-2059, cesm1_cam5, Nov Anomaly, France, FRA
+1.5369692, 2040-2059, cesm1_cam5, Dec Anomaly, France, FRA
+0.75505656, 2040-2059, csiro_mk3_6_0, Jan Anomaly, France, FRA
+1.524569, 2040-2059, csiro_mk3_6_0, Feb Anomaly, France, FRA
+0.5042216, 2040-2059, csiro_mk3_6_0, Mar Anomaly, France, FRA
+0.029718978, 2040-2059, csiro_mk3_6_0, Apr Anomaly, France, FRA
+1.3398333, 2040-2059, csiro_mk3_6_0, May Anomaly, France, FRA
+1.3065013, 2040-2059, csiro_mk3_6_0, Jun Anomaly, France, FRA
+2.8948398, 2040-2059, csiro_mk3_6_0, Jul Anomaly, France, FRA
+2.86411, 2040-2059, csiro_mk3_6_0, Aug Anomaly, France, FRA
+2.0379162, 2040-2059, csiro_mk3_6_0, Sep Anomaly, France, FRA
+1.1438992, 2040-2059, csiro_mk3_6_0, Oct Anomaly, France, FRA
+1.2120965, 2040-2059, csiro_mk3_6_0, Nov Anomaly, France, FRA
+1.7764281, 2040-2059, csiro_mk3_6_0, Dec Anomaly, France, FRA
+0.6918786, 2040-2059, fio_esm, Jan Anomaly, France, FRA
+0.5023957, 2040-2059, fio_esm, Feb Anomaly, France, FRA
+0.7117198, 2040-2059, fio_esm, Mar Anomaly, France, FRA
+-0.3879443, 2040-2059, fio_esm, Apr Anomaly, France, FRA
+0.4691043, 2040-2059, fio_esm, May Anomaly, France, FRA
+0.16805072, 2040-2059, fio_esm, Jun Anomaly, France, FRA
+0.6444432, 2040-2059, fio_esm, Jul Anomaly, France, FRA
+0.50472414, 2040-2059, fio_esm, Aug Anomaly, France, FRA
+0.92717224, 2040-2059, fio_esm, Sep Anomaly, France, FRA
+0.22688928, 2040-2059, fio_esm, Oct Anomaly, France, FRA
+0.17511627, 2040-2059, fio_esm, Nov Anomaly, France, FRA
+-0.1026622, 2040-2059, fio_esm, Dec Anomaly, France, FRA
+0.78679395, 2040-2059, gfdl_cm3, Jan Anomaly, France, FRA
+1.0062989, 2040-2059, gfdl_cm3, Feb Anomaly, France, FRA
+2.300399, 2040-2059, gfdl_cm3, Mar Anomaly, France, FRA
+1.9255344, 2040-2059, gfdl_cm3, Apr Anomaly, France, FRA
+1.289646, 2040-2059, gfdl_cm3, May Anomaly, France, FRA
+3.3784513, 2040-2059, gfdl_cm3, Jun Anomaly, France, FRA
+4.842262, 2040-2059, gfdl_cm3, Jul Anomaly, France, FRA
+3.3791296, 2040-2059, gfdl_cm3, Aug Anomaly, France, FRA
+2.6331866, 2040-2059, gfdl_cm3, Sep Anomaly, France, FRA
+2.2482483, 2040-2059, gfdl_cm3, Oct Anomaly, France, FRA
+1.7928743, 2040-2059, gfdl_cm3, Nov Anomaly, France, FRA
+1.7449595, 2040-2059, gfdl_cm3, Dec Anomaly, France, FRA
+0.94749844, 2040-2059, gfdl_esm2m, Jan Anomaly, France, FRA
+-0.04745844, 2040-2059, gfdl_esm2m, Feb Anomaly, France, FRA
+0.19512081, 2040-2059, gfdl_esm2m, Mar Anomaly, France, FRA
+0.5627235, 2040-2059, gfdl_esm2m, Apr Anomaly, France, FRA
+0.14987655, 2040-2059, gfdl_esm2m, May Anomaly, France, FRA
+0.7768251, 2040-2059, gfdl_esm2m, Jun Anomaly, France, FRA
+1.6079336, 2040-2059, gfdl_esm2m, Jul Anomaly, France, FRA
+1.2443916, 2040-2059, gfdl_esm2m, Aug Anomaly, France, FRA
+1.2535478, 2040-2059, gfdl_esm2m, Sep Anomaly, France, FRA
+1.2871702, 2040-2059, gfdl_esm2m, Oct Anomaly, France, FRA
+0.5346658, 2040-2059, gfdl_esm2m, Nov Anomaly, France, FRA
+0.17752486, 2040-2059, gfdl_esm2m, Dec Anomaly, France, FRA
+0.8811883, 2040-2059, giss_e2_h, Jan Anomaly, France, FRA
+3.3984523, 2040-2059, giss_e2_h, Feb Anomaly, France, FRA
+2.1592455, 2040-2059, giss_e2_h, Mar Anomaly, France, FRA
+2.1396425, 2040-2059, giss_e2_h, Apr Anomaly, France, FRA
+1.7910405, 2040-2059, giss_e2_h, May Anomaly, France, FRA
+1.6590911, 2040-2059, giss_e2_h, Jun Anomaly, France, FRA
+1.2803178, 2040-2059, giss_e2_h, Jul Anomaly, France, FRA
+1.77788, 2040-2059, giss_e2_h, Aug Anomaly, France, FRA
+1.6528838, 2040-2059, giss_e2_h, Sep Anomaly, France, FRA
+2.0146127, 2040-2059, giss_e2_h, Oct Anomaly, France, FRA
+1.1517882, 2040-2059, giss_e2_h, Nov Anomaly, France, FRA
+2.0131373, 2040-2059, giss_e2_h, Dec Anomaly, France, FRA
+1.0387264, 2040-2059, giss_e2_r, Jan Anomaly, France, FRA
+0.97622555, 2040-2059, giss_e2_r, Feb Anomaly, France, FRA
+0.4987283, 2040-2059, giss_e2_r, Mar Anomaly, France, FRA
+1.5537002, 2040-2059, giss_e2_r, Apr Anomaly, France, FRA
+1.4514313, 2040-2059, giss_e2_r, May Anomaly, France, FRA
+1.3474092, 2040-2059, giss_e2_r, Jun Anomaly, France, FRA
+1.1072974, 2040-2059, giss_e2_r, Jul Anomaly, France, FRA
+0.9417312, 2040-2059, giss_e2_r, Aug Anomaly, France, FRA
+1.6068809, 2040-2059, giss_e2_r, Sep Anomaly, France, FRA
+1.4157737, 2040-2059, giss_e2_r, Oct Anomaly, France, FRA
+1.13335, 2040-2059, giss_e2_r, Nov Anomaly, France, FRA
+1.0067897, 2040-2059, giss_e2_r, Dec Anomaly, France, FRA
+1.0312861, 2040-2059, ipsl_cm5a_mr, Jan Anomaly, France, FRA
+1.1024284, 2040-2059, ipsl_cm5a_mr, Feb Anomaly, France, FRA
+0.87171036, 2040-2059, ipsl_cm5a_mr, Mar Anomaly, France, FRA
+0.8184934, 2040-2059, ipsl_cm5a_mr, Apr Anomaly, France, FRA
+1.3171884, 2040-2059, ipsl_cm5a_mr, May Anomaly, France, FRA
+1.2077585, 2040-2059, ipsl_cm5a_mr, Jun Anomaly, France, FRA
+1.9339366, 2040-2059, ipsl_cm5a_mr, Jul Anomaly, France, FRA
+1.0412639, 2040-2059, ipsl_cm5a_mr, Aug Anomaly, France, FRA
+2.1290553, 2040-2059, ipsl_cm5a_mr, Sep Anomaly, France, FRA
+1.4389911, 2040-2059, ipsl_cm5a_mr, Oct Anomaly, France, FRA
+0.27908772, 2040-2059, ipsl_cm5a_mr, Nov Anomaly, France, FRA
+0.3666478, 2040-2059, ipsl_cm5a_mr, Dec Anomaly, France, FRA
+1.9324163, 2040-2059, miroc_esm, Jan Anomaly, France, FRA
+1.6650479, 2040-2059, miroc_esm, Feb Anomaly, France, FRA
+1.681814, 2040-2059, miroc_esm, Mar Anomaly, France, FRA
+2.557988, 2040-2059, miroc_esm, Apr Anomaly, France, FRA
+1.7316303, 2040-2059, miroc_esm, May Anomaly, France, FRA
+1.946917, 2040-2059, miroc_esm, Jun Anomaly, France, FRA
+2.5070662, 2040-2059, miroc_esm, Jul Anomaly, France, FRA
+2.6054552, 2040-2059, miroc_esm, Aug Anomaly, France, FRA
+2.397142, 2040-2059, miroc_esm, Sep Anomaly, France, FRA
+1.8778096, 2040-2059, miroc_esm, Oct Anomaly, France, FRA
+1.6946895, 2040-2059, miroc_esm, Nov Anomaly, France, FRA
+1.7096354, 2040-2059, miroc_esm, Dec Anomaly, France, FRA
+2.2152126, 2040-2059, miroc_esm_chem, Jan Anomaly, France, FRA
+1.951, 2040-2059, miroc_esm_chem, Feb Anomaly, France, FRA
+1.7083403, 2040-2059, miroc_esm_chem, Mar Anomaly, France, FRA
+1.6878808, 2040-2059, miroc_esm_chem, Apr Anomaly, France, FRA
+2.665391, 2040-2059, miroc_esm_chem, May Anomaly, France, FRA
+2.397213, 2040-2059, miroc_esm_chem, Jun Anomaly, France, FRA
+2.2821977, 2040-2059, miroc_esm_chem, Jul Anomaly, France, FRA
+2.5604677, 2040-2059, miroc_esm_chem, Aug Anomaly, France, FRA
+2.494723, 2040-2059, miroc_esm_chem, Sep Anomaly, France, FRA
+2.4760404, 2040-2059, miroc_esm_chem, Oct Anomaly, France, FRA
+1.7513078, 2040-2059, miroc_esm_chem, Nov Anomaly, France, FRA
+1.8766341, 2040-2059, miroc_esm_chem, Dec Anomaly, France, FRA
+0.9512211, 2040-2059, miroc5, Jan Anomaly, France, FRA
+1.0375423, 2040-2059, miroc5, Feb Anomaly, France, FRA
+0.6280852, 2040-2059, miroc5, Mar Anomaly, France, FRA
+0.8662325, 2040-2059, miroc5, Apr Anomaly, France, FRA
+1.4078143, 2040-2059, miroc5, May Anomaly, France, FRA
+1.0973808, 2040-2059, miroc5, Jun Anomaly, France, FRA
+1.740406, 2040-2059, miroc5, Jul Anomaly, France, FRA
+1.4117129, 2040-2059, miroc5, Aug Anomaly, France, FRA
+1.8048596, 2040-2059, miroc5, Sep Anomaly, France, FRA
+0.9732435, 2040-2059, miroc5, Oct Anomaly, France, FRA
+1.2757584, 2040-2059, miroc5, Nov Anomaly, France, FRA
+0.91811776, 2040-2059, miroc5, Dec Anomaly, France, FRA
+0.44858527, 2040-2059, mri_cgcm3, Jan Anomaly, France, FRA
+0.8181376, 2040-2059, mri_cgcm3, Feb Anomaly, France, FRA
+0.8957608, 2040-2059, mri_cgcm3, Mar Anomaly, France, FRA
+0.3245538, 2040-2059, mri_cgcm3, Apr Anomaly, France, FRA
+0.41207352, 2040-2059, mri_cgcm3, May Anomaly, France, FRA
+0.20766695, 2040-2059, mri_cgcm3, Jun Anomaly, France, FRA
+0.5880649, 2040-2059, mri_cgcm3, Jul Anomaly, France, FRA
+0.8434232, 2040-2059, mri_cgcm3, Aug Anomaly, France, FRA
+1.4889405, 2040-2059, mri_cgcm3, Sep Anomaly, France, FRA
+0.2701086, 2040-2059, mri_cgcm3, Oct Anomaly, France, FRA
+1.293349, 2040-2059, mri_cgcm3, Nov Anomaly, France, FRA
+1.0692313, 2040-2059, mri_cgcm3, Dec Anomaly, France, FRA
+1.3580178, 2040-2059, noresm1_m, Jan Anomaly, France, FRA
+0.5827576, 2040-2059, noresm1_m, Feb Anomaly, France, FRA
+0.9898009, 2040-2059, noresm1_m, Mar Anomaly, France, FRA
+1.1292154, 2040-2059, noresm1_m, Apr Anomaly, France, FRA
+1.6907877, 2040-2059, noresm1_m, May Anomaly, France, FRA
+0.77377737, 2040-2059, noresm1_m, Jun Anomaly, France, FRA
+1.1295338, 2040-2059, noresm1_m, Jul Anomaly, France, FRA
+1.5130389, 2040-2059, noresm1_m, Aug Anomaly, France, FRA
+1.4737998, 2040-2059, noresm1_m, Sep Anomaly, France, FRA
+0.45638853, 2040-2059, noresm1_m, Oct Anomaly, France, FRA
+0.8509271, 2040-2059, noresm1_m, Nov Anomaly, France, FRA
+1.4139991, 2040-2059, noresm1_m, Dec Anomaly, France, FRA
+0.51728964, 2040-2059, Ensemble (10th Percentile), Jan Anomaly, France, FRA
+0.27291837, 2040-2059, Ensemble (10th Percentile), Feb Anomaly, France, FRA
+0.34177873, 2040-2059, Ensemble (10th Percentile), Mar Anomaly, France, FRA
+-0.12866864, 2040-2059, Ensemble (10th Percentile), Apr Anomaly, France, FRA
+0.24496427, 2040-2059, Ensemble (10th Percentile), May Anomaly, France, FRA
+0.23115936, 2040-2059, Ensemble (10th Percentile), Jun Anomaly, France, FRA
+0.67214584, 2040-2059, Ensemble (10th Percentile), Jul Anomaly, France, FRA
+0.7044521, 2040-2059, Ensemble (10th Percentile), Aug Anomaly, France, FRA
+1.1254812, 2040-2059, Ensemble (10th Percentile), Sep Anomaly, France, FRA
+0.2656635, 2040-2059, Ensemble (10th Percentile), Oct Anomaly, France, FRA
+0.24660553, 2040-2059, Ensemble (10th Percentile), Nov Anomaly, France, FRA
+0.09336877, 2040-2059, Ensemble (10th Percentile), Dec Anomaly, France, FRA
+1.0061265, 2040-2059, Ensemble (50th Percentile), Jan Anomaly, France, FRA
+1.0746521, 2040-2059, Ensemble (50th Percentile), Feb Anomaly, France, FRA
+1.015521, 2040-2059, Ensemble (50th Percentile), Mar Anomaly, France, FRA
+1.1989135, 2040-2059, Ensemble (50th Percentile), Apr Anomaly, France, FRA
+1.377327, 2040-2059, Ensemble (50th Percentile), May Anomaly, France, FRA
+1.4678205, 2040-2059, Ensemble (50th Percentile), Jun Anomaly, France, FRA
+1.7190688, 2040-2059, Ensemble (50th Percentile), Jul Anomaly, France, FRA
+1.7306505, 2040-2059, Ensemble (50th Percentile), Aug Anomaly, France, FRA
+1.8764787, 2040-2059, Ensemble (50th Percentile), Sep Anomaly, France, FRA
+1.348508, 2040-2059, Ensemble (50th Percentile), Oct Anomaly, France, FRA
+1.2283348, 2040-2059, Ensemble (50th Percentile), Nov Anomaly, France, FRA
+1.1894889, 2040-2059, Ensemble (50th Percentile), Dec Anomaly, France, FRA
+2.2141097, 2040-2059, Ensemble (90th Percentile), Jan Anomaly, France, FRA
+2.4007545, 2040-2059, Ensemble (90th Percentile), Feb Anomaly, France, FRA
+2.1879041, 2040-2059, Ensemble (90th Percentile), Mar Anomaly, France, FRA
+2.3441675, 2040-2059, Ensemble (90th Percentile), Apr Anomaly, France, FRA
+2.1454945, 2040-2059, Ensemble (90th Percentile), May Anomaly, France, FRA
+2.9528873, 2040-2059, Ensemble (90th Percentile), Jun Anomaly, France, FRA
+3.5775893, 2040-2059, Ensemble (90th Percentile), Jul Anomaly, France, FRA
+3.1609955, 2040-2059, Ensemble (90th Percentile), Aug Anomaly, France, FRA
+2.6302269, 2040-2059, Ensemble (90th Percentile), Sep Anomaly, France, FRA
+2.3766763, 2040-2059, Ensemble (90th Percentile), Oct Anomaly, France, FRA
+1.7675108, 2040-2059, Ensemble (90th Percentile), Nov Anomaly, France, FRA
+1.9810603, 2040-2059, Ensemble (90th Percentile), Dec Anomaly, France, FRA

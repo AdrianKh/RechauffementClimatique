@@ -1,0 +1,229 @@
+Monthly Temperature - (Celsius), Year, Model, Statistics, Country, ISO3
+6.9616785, 2080-2099, bcc_csm1_1, Jan Average, France, FRA
+6.7564006, 2080-2099, bcc_csm1_1, Feb Average, France, FRA
+8.147781, 2080-2099, bcc_csm1_1, Mar Average, France, FRA
+10.230856, 2080-2099, bcc_csm1_1, Apr Average, France, FRA
+13.045601, 2080-2099, bcc_csm1_1, May Average, France, FRA
+17.08658, 2080-2099, bcc_csm1_1, Jun Average, France, FRA
+20.53876, 2080-2099, bcc_csm1_1, Jul Average, France, FRA
+20.455393, 2080-2099, bcc_csm1_1, Aug Average, France, FRA
+17.582455, 2080-2099, bcc_csm1_1, Sep Average, France, FRA
+13.091776, 2080-2099, bcc_csm1_1, Oct Average, France, FRA
+9.654598, 2080-2099, bcc_csm1_1, Nov Average, France, FRA
+7.508674, 2080-2099, bcc_csm1_1, Dec Average, France, FRA
+6.877726, 2080-2099, bcc_csm1_1_m, Jan Average, France, FRA
+7.5443554, 2080-2099, bcc_csm1_1_m, Feb Average, France, FRA
+8.425959, 2080-2099, bcc_csm1_1_m, Mar Average, France, FRA
+10.645527, 2080-2099, bcc_csm1_1_m, Apr Average, France, FRA
+14.689943, 2080-2099, bcc_csm1_1_m, May Average, France, FRA
+18.360212, 2080-2099, bcc_csm1_1_m, Jun Average, France, FRA
+21.36227, 2080-2099, bcc_csm1_1_m, Jul Average, France, FRA
+22.723257, 2080-2099, bcc_csm1_1_m, Aug Average, France, FRA
+18.956553, 2080-2099, bcc_csm1_1_m, Sep Average, France, FRA
+13.549181, 2080-2099, bcc_csm1_1_m, Oct Average, France, FRA
+9.612013, 2080-2099, bcc_csm1_1_m, Nov Average, France, FRA
+7.9890814, 2080-2099, bcc_csm1_1_m, Dec Average, France, FRA
+7.5687556, 2080-2099, ccsm4, Jan Average, France, FRA
+7.8644934, 2080-2099, ccsm4, Feb Average, France, FRA
+9.376853, 2080-2099, ccsm4, Mar Average, France, FRA
+12.109746, 2080-2099, ccsm4, Apr Average, France, FRA
+14.594994, 2080-2099, ccsm4, May Average, France, FRA
+18.25524, 2080-2099, ccsm4, Jun Average, France, FRA
+21.0618, 2080-2099, ccsm4, Jul Average, France, FRA
+20.879562, 2080-2099, ccsm4, Aug Average, France, FRA
+18.074738, 2080-2099, ccsm4, Sep Average, France, FRA
+13.645778, 2080-2099, ccsm4, Oct Average, France, FRA
+10.482868, 2080-2099, ccsm4, Nov Average, France, FRA
+8.288981, 2080-2099, ccsm4, Dec Average, France, FRA
+6.88741, 2080-2099, cesm1_cam5, Jan Average, France, FRA
+7.2926903, 2080-2099, cesm1_cam5, Feb Average, France, FRA
+9.111708, 2080-2099, cesm1_cam5, Mar Average, France, FRA
+12.052653, 2080-2099, cesm1_cam5, Apr Average, France, FRA
+15.272757, 2080-2099, cesm1_cam5, May Average, France, FRA
+18.5471, 2080-2099, cesm1_cam5, Jun Average, France, FRA
+20.945925, 2080-2099, cesm1_cam5, Jul Average, France, FRA
+20.288095, 2080-2099, cesm1_cam5, Aug Average, France, FRA
+17.391811, 2080-2099, cesm1_cam5, Sep Average, France, FRA
+13.502356, 2080-2099, cesm1_cam5, Oct Average, France, FRA
+10.406062, 2080-2099, cesm1_cam5, Nov Average, France, FRA
+7.9974246, 2080-2099, cesm1_cam5, Dec Average, France, FRA
+5.65261, 2080-2099, csiro_mk3_6_0, Jan Average, France, FRA
+6.2543583, 2080-2099, csiro_mk3_6_0, Feb Average, France, FRA
+7.33653, 2080-2099, csiro_mk3_6_0, Mar Average, France, FRA
+10.015147, 2080-2099, csiro_mk3_6_0, Apr Average, France, FRA
+14.251591, 2080-2099, csiro_mk3_6_0, May Average, France, FRA
+20.109064, 2080-2099, csiro_mk3_6_0, Jun Average, France, FRA
+23.725863, 2080-2099, csiro_mk3_6_0, Jul Average, France, FRA
+23.894363, 2080-2099, csiro_mk3_6_0, Aug Average, France, FRA
+18.642172, 2080-2099, csiro_mk3_6_0, Sep Average, France, FRA
+12.796737, 2080-2099, csiro_mk3_6_0, Oct Average, France, FRA
+9.28548, 2080-2099, csiro_mk3_6_0, Nov Average, France, FRA
+6.306494, 2080-2099, csiro_mk3_6_0, Dec Average, France, FRA
+5.634734, 2080-2099, fio_esm, Jan Average, France, FRA
+5.4325833, 2080-2099, fio_esm, Feb Average, France, FRA
+6.8742967, 2080-2099, fio_esm, Mar Average, France, FRA
+8.890333, 2080-2099, fio_esm, Apr Average, France, FRA
+11.79391, 2080-2099, fio_esm, May Average, France, FRA
+15.500987, 2080-2099, fio_esm, Jun Average, France, FRA
+17.61344, 2080-2099, fio_esm, Jul Average, France, FRA
+17.105877, 2080-2099, fio_esm, Aug Average, France, FRA
+14.110334, 2080-2099, fio_esm, Sep Average, France, FRA
+10.526888, 2080-2099, fio_esm, Oct Average, France, FRA
+8.085012, 2080-2099, fio_esm, Nov Average, France, FRA
+5.942046, 2080-2099, fio_esm, Dec Average, France, FRA
+6.3345222, 2080-2099, gfdl_cm3, Jan Average, France, FRA
+6.6833663, 2080-2099, gfdl_cm3, Feb Average, France, FRA
+8.440059, 2080-2099, gfdl_cm3, Mar Average, France, FRA
+11.411705, 2080-2099, gfdl_cm3, Apr Average, France, FRA
+14.604853, 2080-2099, gfdl_cm3, May Average, France, FRA
+18.620054, 2080-2099, gfdl_cm3, Jun Average, France, FRA
+22.446655, 2080-2099, gfdl_cm3, Jul Average, France, FRA
+23.018911, 2080-2099, gfdl_cm3, Aug Average, France, FRA
+19.285982, 2080-2099, gfdl_cm3, Sep Average, France, FRA
+14.041459, 2080-2099, gfdl_cm3, Oct Average, France, FRA
+10.35729, 2080-2099, gfdl_cm3, Nov Average, France, FRA
+8.012636, 2080-2099, gfdl_cm3, Dec Average, France, FRA
+5.93555, 2080-2099, gfdl_esm2m, Jan Average, France, FRA
+6.8983026, 2080-2099, gfdl_esm2m, Feb Average, France, FRA
+7.4717345, 2080-2099, gfdl_esm2m, Mar Average, France, FRA
+10.064126, 2080-2099, gfdl_esm2m, Apr Average, France, FRA
+13.751053, 2080-2099, gfdl_esm2m, May Average, France, FRA
+16.973717, 2080-2099, gfdl_esm2m, Jun Average, France, FRA
+19.126293, 2080-2099, gfdl_esm2m, Jul Average, France, FRA
+18.39589, 2080-2099, gfdl_esm2m, Aug Average, France, FRA
+15.105149, 2080-2099, gfdl_esm2m, Sep Average, France, FRA
+11.624469, 2080-2099, gfdl_esm2m, Oct Average, France, FRA
+8.924979, 2080-2099, gfdl_esm2m, Nov Average, France, FRA
+7.317594, 2080-2099, gfdl_esm2m, Dec Average, France, FRA
+7.7290473, 2080-2099, giss_e2_h, Jan Average, France, FRA
+8.36689, 2080-2099, giss_e2_h, Feb Average, France, FRA
+9.590907, 2080-2099, giss_e2_h, Mar Average, France, FRA
+12.396744, 2080-2099, giss_e2_h, Apr Average, France, FRA
+15.571104, 2080-2099, giss_e2_h, May Average, France, FRA
+17.8721, 2080-2099, giss_e2_h, Jun Average, France, FRA
+19.778357, 2080-2099, giss_e2_h, Jul Average, France, FRA
+19.498655, 2080-2099, giss_e2_h, Aug Average, France, FRA
+16.744617, 2080-2099, giss_e2_h, Sep Average, France, FRA
+13.268082, 2080-2099, giss_e2_h, Oct Average, France, FRA
+9.684196, 2080-2099, giss_e2_h, Nov Average, France, FRA
+7.6132345, 2080-2099, giss_e2_h, Dec Average, France, FRA
+5.9948745, 2080-2099, giss_e2_r, Jan Average, France, FRA
+6.184995, 2080-2099, giss_e2_r, Feb Average, France, FRA
+7.8903112, 2080-2099, giss_e2_r, Mar Average, France, FRA
+10.846139, 2080-2099, giss_e2_r, Apr Average, France, FRA
+14.248013, 2080-2099, giss_e2_r, May Average, France, FRA
+17.05313, 2080-2099, giss_e2_r, Jun Average, France, FRA
+19.17322, 2080-2099, giss_e2_r, Jul Average, France, FRA
+19.425306, 2080-2099, giss_e2_r, Aug Average, France, FRA
+16.668198, 2080-2099, giss_e2_r, Sep Average, France, FRA
+12.371347, 2080-2099, giss_e2_r, Oct Average, France, FRA
+9.654049, 2080-2099, giss_e2_r, Nov Average, France, FRA
+7.066258, 2080-2099, giss_e2_r, Dec Average, France, FRA
+5.3585734, 2080-2099, ipsl_cm5a_mr, Jan Average, France, FRA
+5.461488, 2080-2099, ipsl_cm5a_mr, Feb Average, France, FRA
+8.240089, 2080-2099, ipsl_cm5a_mr, Mar Average, France, FRA
+9.85794, 2080-2099, ipsl_cm5a_mr, Apr Average, France, FRA
+13.413839, 2080-2099, ipsl_cm5a_mr, May Average, France, FRA
+18.974054, 2080-2099, ipsl_cm5a_mr, Jun Average, France, FRA
+22.968546, 2080-2099, ipsl_cm5a_mr, Jul Average, France, FRA
+21.955185, 2080-2099, ipsl_cm5a_mr, Aug Average, France, FRA
+18.488441, 2080-2099, ipsl_cm5a_mr, Sep Average, France, FRA
+13.095476, 2080-2099, ipsl_cm5a_mr, Oct Average, France, FRA
+8.741109, 2080-2099, ipsl_cm5a_mr, Nov Average, France, FRA
+6.058768, 2080-2099, ipsl_cm5a_mr, Dec Average, France, FRA
+8.687385, 2080-2099, miroc_esm, Jan Average, France, FRA
+8.762699, 2080-2099, miroc_esm, Feb Average, France, FRA
+9.591532, 2080-2099, miroc_esm, Mar Average, France, FRA
+11.762826, 2080-2099, miroc_esm, Apr Average, France, FRA
+16.733452, 2080-2099, miroc_esm, May Average, France, FRA
+21.087032, 2080-2099, miroc_esm, Jun Average, France, FRA
+22.942774, 2080-2099, miroc_esm, Jul Average, France, FRA
+21.230211, 2080-2099, miroc_esm, Aug Average, France, FRA
+17.630907, 2080-2099, miroc_esm, Sep Average, France, FRA
+13.955727, 2080-2099, miroc_esm, Oct Average, France, FRA
+10.773445, 2080-2099, miroc_esm, Nov Average, France, FRA
+8.871382, 2080-2099, miroc_esm, Dec Average, France, FRA
+8.177008, 2080-2099, miroc_esm_chem, Jan Average, France, FRA
+8.763113, 2080-2099, miroc_esm_chem, Feb Average, France, FRA
+9.521431, 2080-2099, miroc_esm_chem, Mar Average, France, FRA
+12.554195, 2080-2099, miroc_esm_chem, Apr Average, France, FRA
+16.304169, 2080-2099, miroc_esm_chem, May Average, France, FRA
+20.648527, 2080-2099, miroc_esm_chem, Jun Average, France, FRA
+22.605015, 2080-2099, miroc_esm_chem, Jul Average, France, FRA
+21.53386, 2080-2099, miroc_esm_chem, Aug Average, France, FRA
+17.973343, 2080-2099, miroc_esm_chem, Sep Average, France, FRA
+14.446034, 2080-2099, miroc_esm_chem, Oct Average, France, FRA
+10.963474, 2080-2099, miroc_esm_chem, Nov Average, France, FRA
+9.292657, 2080-2099, miroc_esm_chem, Dec Average, France, FRA
+6.383997, 2080-2099, miroc5, Jan Average, France, FRA
+6.580277, 2080-2099, miroc5, Feb Average, France, FRA
+9.474704, 2080-2099, miroc5, Mar Average, France, FRA
+12.796818, 2080-2099, miroc5, Apr Average, France, FRA
+16.845627, 2080-2099, miroc5, May Average, France, FRA
+21.086214, 2080-2099, miroc5, Jun Average, France, FRA
+24.270384, 2080-2099, miroc5, Jul Average, France, FRA
+23.065786, 2080-2099, miroc5, Aug Average, France, FRA
+19.68554, 2080-2099, miroc5, Sep Average, France, FRA
+14.965903, 2080-2099, miroc5, Oct Average, France, FRA
+10.537014, 2080-2099, miroc5, Nov Average, France, FRA
+7.6943808, 2080-2099, miroc5, Dec Average, France, FRA
+5.4960737, 2080-2099, mri_cgcm3, Jan Average, France, FRA
+6.1275277, 2080-2099, mri_cgcm3, Feb Average, France, FRA
+7.756469, 2080-2099, mri_cgcm3, Mar Average, France, FRA
+9.822165, 2080-2099, mri_cgcm3, Apr Average, France, FRA
+13.626062, 2080-2099, mri_cgcm3, May Average, France, FRA
+17.415483, 2080-2099, mri_cgcm3, Jun Average, France, FRA
+19.809433, 2080-2099, mri_cgcm3, Jul Average, France, FRA
+18.441761, 2080-2099, mri_cgcm3, Aug Average, France, FRA
+15.866706, 2080-2099, mri_cgcm3, Sep Average, France, FRA
+11.605101, 2080-2099, mri_cgcm3, Oct Average, France, FRA
+7.7217345, 2080-2099, mri_cgcm3, Nov Average, France, FRA
+6.4131317, 2080-2099, mri_cgcm3, Dec Average, France, FRA
+7.3434625, 2080-2099, noresm1_m, Jan Average, France, FRA
+8.1203, 2080-2099, noresm1_m, Feb Average, France, FRA
+9.596842, 2080-2099, noresm1_m, Mar Average, France, FRA
+12.182543, 2080-2099, noresm1_m, Apr Average, France, FRA
+14.606328, 2080-2099, noresm1_m, May Average, France, FRA
+18.11319, 2080-2099, noresm1_m, Jun Average, France, FRA
+20.031551, 2080-2099, noresm1_m, Jul Average, France, FRA
+19.42446, 2080-2099, noresm1_m, Aug Average, France, FRA
+16.840483, 2080-2099, noresm1_m, Sep Average, France, FRA
+13.138388, 2080-2099, noresm1_m, Oct Average, France, FRA
+10.043073, 2080-2099, noresm1_m, Nov Average, France, FRA
+8.194254, 2080-2099, noresm1_m, Dec Average, France, FRA
+-0.30014414, 2080-2099, Ensemble (10th Percentile), Jan Average, France, FRA
+-1.0946528, 2080-2099, Ensemble (10th Percentile), Feb Average, France, FRA
+-0.6052596, 2080-2099, Ensemble (10th Percentile), Mar Average, France, FRA
+-0.45681962, 2080-2099, Ensemble (10th Percentile), Apr Average, France, FRA
+-0.2381075, 2080-2099, Ensemble (10th Percentile), May Average, France, FRA
+-0.33504906, 2080-2099, Ensemble (10th Percentile), Jun Average, France, FRA
+-0.012629732, 2080-2099, Ensemble (10th Percentile), Jul Average, France, FRA
+-0.28218788, 2080-2099, Ensemble (10th Percentile), Aug Average, France, FRA
+-0.17387955, 2080-2099, Ensemble (10th Percentile), Sep Average, France, FRA
+-0.852533, 2080-2099, Ensemble (10th Percentile), Oct Average, France, FRA
+-0.58851373, 2080-2099, Ensemble (10th Percentile), Nov Average, France, FRA
+-0.6647672, 2080-2099, Ensemble (10th Percentile), Dec Average, France, FRA
+0.96504515, 2080-2099, Ensemble (50th Percentile), Jan Average, France, FRA
+0.91437906, 2080-2099, Ensemble (50th Percentile), Feb Average, France, FRA
+1.0622478, 2080-2099, Ensemble (50th Percentile), Mar Average, France, FRA
+0.98142326, 2080-2099, Ensemble (50th Percentile), Apr Average, France, FRA
+1.2136359, 2080-2099, Ensemble (50th Percentile), May Average, France, FRA
+1.31078, 2080-2099, Ensemble (50th Percentile), Jun Average, France, FRA
+1.3136411, 2080-2099, Ensemble (50th Percentile), Jul Average, France, FRA
+1.4265553, 2080-2099, Ensemble (50th Percentile), Aug Average, France, FRA
+1.6479148, 2080-2099, Ensemble (50th Percentile), Sep Average, France, FRA
+1.0792776, 2080-2099, Ensemble (50th Percentile), Oct Average, France, FRA
+0.96089715, 2080-2099, Ensemble (50th Percentile), Nov Average, France, FRA
+1.0381339, 2080-2099, Ensemble (50th Percentile), Dec Average, France, FRA
+2.3680527, 2080-2099, Ensemble (90th Percentile), Jan Average, France, FRA
+2.2193973, 2080-2099, Ensemble (90th Percentile), Feb Average, France, FRA
+1.7413504, 2080-2099, Ensemble (90th Percentile), Mar Average, France, FRA
+2.0516026, 2080-2099, Ensemble (90th Percentile), Apr Average, France, FRA
+2.541471, 2080-2099, Ensemble (90th Percentile), May Average, France, FRA
+2.8914654, 2080-2099, Ensemble (90th Percentile), Jun Average, France, FRA
+3.8303483, 2080-2099, Ensemble (90th Percentile), Jul Average, France, FRA
+3.9053366, 2080-2099, Ensemble (90th Percentile), Aug Average, France, FRA
+3.037633, 2080-2099, Ensemble (90th Percentile), Sep Average, France, FRA
+2.5213375, 2080-2099, Ensemble (90th Percentile), Oct Average, France, FRA
+2.1751876, 2080-2099, Ensemble (90th Percentile), Nov Average, France, FRA
+2.075851, 2080-2099, Ensemble (90th Percentile), Dec Average, France, FRA

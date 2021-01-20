@@ -15,10 +15,11 @@ Lien vers le cours de visualisation suivi dans le cadre du master Data Science :
 Sources:
 
 Inspirations: 
-- Visualisation des bandes: Visualisation sembable proposée par une équipe de chercheur https://www.researchgate.net/publication/4187821_Two-Tone_Pseudo_Coloring_Compact_Visualization_for_One-Dimensional_Data 
+- Visualisation des bandes: Visualisation sembable proposée par une équipe de chercheur à l'adresse suivante : https://www.researchgate.net/publication/4187821_Two-Tone_Pseudo_Coloring_Compact_Visualization_for_One-Dimensional_Data 
 
 Données :
-
+- Données historiques de températures (Visu bande et métropoles): https://www.meteo-paris.com/
+- Données de projection d'anomalies de températures ( Visu France et Cercles) : 
 
 ![Simplon.co](rechauffement.jpg)
 

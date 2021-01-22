@@ -19,7 +19,9 @@ Inspirations:
 
 Données :
 - Données historiques de températures (Visu bande et métropoles): https://www.meteo-paris.com/
-- Données de projection d'anomalies de températures ( Visu France et Cercles) : 
+- Données de projection d'anomalies de températures ( Visu France et Cercles) : https://www.data.gouv.fr/fr/organizations/meteo-france/#datasets
+
+Projet initial : git@forge.univ-lyon1.fr:p1926804/projet_dataviz.git
 
 ![Simplon.co](rechauffement.jpg)
 
